@@ -68,3 +68,6 @@ flutter:
     - assets/images/
     # - assets/icons/
     - assets/gifs/
+
+    dependency_overrides:
+  intl: 0.20.2
